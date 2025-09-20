@@ -11,8 +11,8 @@ import PlaceOrder from "./pages/PlaceOrder";
 import Product from "./pages/Product";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import SearchBar from "./components/searchBar";
-import { ToastContainer, toast } from 'react-toastify';
+import SearchBar from "./components/SearchBar";
+import { ToastContainer} from 'react-toastify';
 import Verify from "./pages/Verify";
 
 const App = () => {
